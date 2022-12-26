@@ -35,7 +35,7 @@
                 "/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed",
                 "/usr/include/x86_64-linux-gnu",
                 "/usr/include",
-                "/usr/lib/gcc/avr/4.9.2/include",                
+                "/usr/lib/gcc/avr/4.9.2/include",
                 "${workspaceRoot}"
             ],
             "defines": [],
@@ -78,5 +78,5 @@
             }
         }
     ],
-    "version": 3
+    "version": 4
 }
